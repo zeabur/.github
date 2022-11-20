@@ -1,6 +1,6 @@
-# Zeabur
+![Zeabur](https://i.imgur.com/nZMGeAx.png)
 
-## Intro
+## Zeabur
 
 Zeabur is a platform that help you deploy your service with one click.  
 No matter what programming language you use, what framework you use.
