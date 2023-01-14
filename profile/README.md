@@ -20,3 +20,5 @@ But we will continue to add and update the document below.
 - Databases: MongoDB, Redis, MySQL, PostgreSQL
 
 Learn more at our [Official Website](https://zeabur.com/home/) and [Documentation](https://docs.zeabur.com).
+
+You can also join our [Discord server](https://discord.gg/5fMbmtbh) or [Telegram Group](https://t.me/zeabur_app).
