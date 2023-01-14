@@ -23,4 +23,4 @@ Learn more at our [Official Website](https://zeabur.com/) and [Documentation](ht
 
 You can also join our [Discord server](https://discord.gg/5fMbmtbh) or [Telegram Group](https://t.me/zeabur_app).
 
-[简中](https://github.com/zeabur/.github/blob/main/profile/README-zh-CN.md)
+[简中](https://github.com/zeabur/.github/blob/main/profile/README-zh-CN.md) [繁中](https://github.com/zeabur/.github/blob/main/profile/README-zh-TW.md) 
