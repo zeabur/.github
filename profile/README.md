@@ -21,6 +21,6 @@ But we will continue to add and update the document below.
 
 Learn more at our [Official Website](https://zeabur.com/) and [Documentation](https://docs.zeabur.com).
 
-You can also join our [Discord server](https://discord.gg/5fMbmtbh) or [Telegram Group](https://t.me/zeabur_app).
+You can also join our [Discord server](https://discord.gg/DrdGCvXEyY).
 
 [简中](https://github.com/zeabur/.github/blob/main/profile/README-zh-CN.md) [繁中](https://github.com/zeabur/.github/blob/main/profile/README-zh-TW.md) 
