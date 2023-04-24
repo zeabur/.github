@@ -1,4 +1,4 @@
-![Zeabur](https://i.imgur.com/nZMGeAx.png)
+![Zeabur](https://camo.githubusercontent.com/15beab615f886a24bbe80d0347892294727653c867d6f68ba13b7341aee9302c/68747470733a2f2f692e696d6775722e636f6d2f4a536c397848782e706e67)
 
 ## Zeabur
 
